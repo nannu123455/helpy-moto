@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+form{
+    width:50%;
+    margin:auto;
+    margin-top:40px;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    margin-top:10px;
+}
+
+#div{
+    display: block;
+    margin:auto;
+}
+
+div p{
+    font-weight:800;
+}
+
+div #status{
+    width:50px;
+    height: 50px;
+    border-radius: 2rem;
+    background-color: white;
+    border:2px solid black;
+   margin: auto;
+}
+
+div #color{
+    width:70px;
+    background-color: cornflowerblue;
+    margin: 5px;;
+}
+#color #p{
+    padding: 8px;
+}
+ 
+.form .rectangle{
+    width:50px;
+    height:50px;
+    background-color: azure;
+}
